@@ -7,3 +7,4 @@
 3. Aleksi Kinnunen (22.02.2021)
 4. Juha Haapalainen (01.03.2021)
 5. Samuli Vento (01.03.2021)
+6. Lauri Ruuskanen (01.03.2021)

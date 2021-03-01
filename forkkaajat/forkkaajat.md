@@ -1,6 +1,8 @@
-## Nimi ja päivämäärä  
-_______________________________________________
-1. Lisää nimesi alle ... 
+## Nimi ja päivämäärä
+
+---
+
+1. Lisää nimesi alle ...
 2. Matti Mallikas (25.5.2020)
 3. Aleksi Kinnunen (22.02.2021)
-4. 
+4. Juha Haapalainen (01.03.2021)
